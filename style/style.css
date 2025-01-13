@@ -62,3 +62,131 @@
 .title button:hover {
   background-color: orangered;
 }
+
+.s2 {
+  width: 1280px;
+  height: 765px;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 80px;
+}
+
+.s2cards {
+  margin-top: 32px;
+  margin-bottom: 32px;
+  display: flex;
+  gap: 24px;
+
+}
+
+.cards {
+  border-radius: 16px;
+  width: 410.67px;
+  height: 352px;
+  margin-bottom: 32px;
+}
+
+.cards img {
+  margin-top: 32px;
+  margin-left: 32px;
+  margin-bottom: 24px;
+  width: 62px;
+  height: 62px;
+}
+
+.cards h2 {
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 32px;
+  margin-bottom: 12px;
+}
+
+.cards p {
+  margin-left: 32px;
+  margin-right: 32px;
+  font-size: 16px;
+  color: #0E0E0E;
+  margin-bottom: 24px;
+}
+
+.btn1 {
+  padding: 11px 20px;
+  border-radius: 8px;
+  border: none;
+  background-color: #5490F5;
+  color: white;
+  font-weight: 700;
+  margin-left: 32px;
+}
+
+.btn1:hover {
+  background-color: orangered;
+}
+
+.btn2 {
+  padding: 11px 20px;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  font-weight: 700;
+  margin-left: 32px;
+  background-color: rgb(9, 161, 92);
+}
+
+.btn2:hover {
+  background-color: orangered;
+}
+
+.btn3 {
+  padding: 11px 20px;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  font-weight: 700;
+  margin-left: 32px;
+  background-color: rgb(255, 194, 57);
+}
+
+.btn3:hover {
+  background-color: orangered;
+}
+
+.middle {
+  border-radius: 16px;
+  border: 1px solid white;
+  background-color: white;
+  width: 1280px;
+  height: 256px;
+}
+
+.mid {
+  margin-top: 48px;
+  margin-left: 34px;
+  color: white;
+  background-repeat: no-repeat;
+  background-position: left top;
+  border: 1px solid white;
+
+}
+
+.des {
+  color: #0E0E0E;
+  margin-top: 26px;
+  margin-right: 34px;
+}
+
+.middle h1 {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 34px;
+  color: #0E0E0E;
+  margin-bottom: 4px;
+}
+
+.middle p {
+  margin-left: 34px;
+  font-size: 16px;
+  color: #0E0E0E;
+}
