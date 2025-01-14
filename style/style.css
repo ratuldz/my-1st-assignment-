@@ -416,3 +416,19 @@
 .c5 button:hover {
   background-color: rgb(0, 2, 1);
 }
+
+.last {
+  margin-top: 34px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 50px;
+}
+
+.last img:hover {
+  background-color: aquamarine;
+}
+
+footer {
+  text-align: center;
+}
